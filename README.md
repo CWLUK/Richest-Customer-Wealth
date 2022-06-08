@@ -1,2 +1,1 @@
-# Richest-Customer-Wealth
-Array
+https://leetcode.com/problems/richest-customer-wealth
